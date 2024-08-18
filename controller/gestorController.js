@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const genderFilter = document.getElementById('gender-filter');
     const searchButton = document.getElementById('search-button');
     const logoutButton = document.getElementById('logout-button');
+    const gameButton = document.getElementById('games-button');
   
     function renderCards(users) {
       userCardsContainer.innerHTML = ''; // Clear previous cards
@@ -59,5 +60,12 @@ document.addEventListener('DOMContentLoaded', () => {
     logoutButton.addEventListener('click', () => {
       // Redirige al usuario a la página de inicio de sesión
       window.location.href = '../index.html';
+
+    });
+
+
+    gameButton.addEventListener('click', () => {
+        // Redirige al usuario a la página de inicio de sesión
+        window.location.href = '../view/menuGame.html';
     });
   });
