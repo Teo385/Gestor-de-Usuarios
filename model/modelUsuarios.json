@@ -1,0 +1,50 @@
+[
+    {
+        "nombre_completo": "Ana María González",
+        "telefono": "+34 912 345 678",
+        "email": "ana.gonzalez@example.com",
+        "genero": "Femenino",
+        "cedula": "12345678A",
+        "contraseña": "contraseñaSegura1"
+    },
+    {
+        "nombre_completo": "Carlos Alberto Pérez",
+        "telefono": "+34 923 456 789",
+        "email": "carlos.perez@example.com",
+        "genero": "Masculino",
+        "cedula": "23456789B",
+        "contraseña": "contraseñaSegura2"
+    },
+    {
+        "nombre_completo": "Lucía Fernández López",
+        "telefono": "+34 934 567 890",
+        "email": "lucia.fernandez@example.com",
+        "genero": "Femenino",
+        "cedula": "34567890C",
+        "contraseña": "contraseñaSegura3"
+    },
+    {
+        "nombre_completo": "Jorge Martínez Ruiz",
+        "telefono": "+34 945 678 901",
+        "email": "jorge.martinez@example.com",
+        "genero": "Masculino",
+        "cedula": "45678901D",
+        "contraseña": "contraseñaSegura4"
+    },
+    {
+        "nombre_completo": "Laura Gómez Sánchez",
+        "telefono": "+34 956 789 012",
+        "email": "laura.gomez@example.com",
+        "genero": "Femenino",
+        "cedula": "56789012E",
+        "contraseña": "contraseñaSegura5"
+    },
+    {
+        "nombre_completo": "Manuel Rodríguez Martínez",
+        "telefono": "+34 967 890 123",
+        "email": "manuel.rodriguez@example.com",
+        "genero": "Masculino",
+        "cedula": "67890123F",
+        "contraseña": "contraseñaSegura6"
+    }
+]
