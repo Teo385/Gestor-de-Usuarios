@@ -7,7 +7,7 @@ export const usuarios = [
       "genero": "Masculino",
       "cedula": "1234567890",
       "contraseña": "contraseña123",
-      "url": "https://picsum.photos/id/151/200/200"
+      "url": "https://picsum.photos/id/151/500/700"
     },
     {
       "nombre": "Teo",
@@ -16,7 +16,7 @@ export const usuarios = [
       "genero": "Masculino",
       "cedula": "1234567890",
       "contraseña": "123",
-      "url": "https://picsum.photos/id/157/200/200"
+      "url": "https://picsum.photos/id/157/500/700"
     },
     {
       "nombre": "Ana Gómez",
@@ -25,7 +25,7 @@ export const usuarios = [
       "genero": "Femenino",
       "cedula": "0987654321",
       "contraseña": "contraseña456",
-      "url": "https://picsum.photos/id/156/200/200"
+      "url": "https://picsum.photos/id/156/500/700"
     },
     {
       "nombre": "Carlos López",
@@ -34,7 +34,7 @@ export const usuarios = [
       "genero": "Masculino",
       "cedula": "1122334455",
       "contraseña": "contraseña789",
-      "url": "https://picsum.photos/id/155/200/200"
+      "url": "https://picsum.photos/id/155/500/700"
     },
     {
       "nombre": "Laura Martínez",
@@ -43,7 +43,7 @@ export const usuarios = [
       "genero": "Femenino",
       "cedula": "5566778899",
       "contraseña": "contraseña101",
-      "url": "https://picsum.photos/id/154/200/200"
+      "url": "https://picsum.photos/id/154/500/700"
     },
     {
       "nombre": "Pedro Fernández",
@@ -52,7 +52,7 @@ export const usuarios = [
       "genero": "Masculino",
       "cedula": "2233445566",
       "contraseña": "contraseña202",
-      "url": "https://picsum.photos/id/153/200/200"
+      "url": "https://picsum.photos/id/153/500/700"
     },
     {
       "nombre": "María Rodríguez",
@@ -61,6 +61,6 @@ export const usuarios = [
       "genero": "Femenino",
       "cedula": "3344556677",
       "contraseña": "contraseña303",
-      "url": "https://picsum.photos/id/152/200/200"
+      "url": "https://picsum.photos/id/152/500/700"
     }
   ];
