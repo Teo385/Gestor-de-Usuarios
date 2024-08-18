@@ -9,6 +9,9 @@ document.addEventListener('DOMContentLoaded', () => {
         userCard.classList.add('card');
         
         userCard.innerHTML = `
+        <div class="imgBx">
+        <img src="${user.url}" alt="${user.nombre}" />
+      </div>
           <div class="details">
             <h3>${user.nombre}</h3>
             <p><strong>Teléfono:</strong> ${user.telefono}</p>

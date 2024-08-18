@@ -7,7 +7,7 @@ export const usuarios = [
       "genero": "Masculino",
       "cedula": "1234567890",
       "contraseña": "contraseña123",
-      "url": ""
+      "url": "https://picsum.photos/id/151/200/200"
     },
     {
       "nombre": "Teo",
@@ -15,7 +15,8 @@ export const usuarios = [
       "email": "teo",
       "genero": "Masculino",
       "cedula": "1234567890",
-      "contraseña": "123"
+      "contraseña": "123",
+      "url": "https://picsum.photos/id/157/200/200"
     },
     {
       "nombre": "Ana Gómez",
@@ -23,7 +24,8 @@ export const usuarios = [
       "email": "ana.gomez@example.com",
       "genero": "Femenino",
       "cedula": "0987654321",
-      "contraseña": "contraseña456"
+      "contraseña": "contraseña456",
+      "url": "https://picsum.photos/id/156/200/200"
     },
     {
       "nombre": "Carlos López",
@@ -31,7 +33,8 @@ export const usuarios = [
       "email": "carlos.lopez@example.com",
       "genero": "Masculino",
       "cedula": "1122334455",
-      "contraseña": "contraseña789"
+      "contraseña": "contraseña789",
+      "url": "https://picsum.photos/id/155/200/200"
     },
     {
       "nombre": "Laura Martínez",
@@ -39,7 +42,8 @@ export const usuarios = [
       "email": "laura.martinez@example.com",
       "genero": "Femenino",
       "cedula": "5566778899",
-      "contraseña": "contraseña101"
+      "contraseña": "contraseña101",
+      "url": "https://picsum.photos/id/154/200/200"
     },
     {
       "nombre": "Pedro Fernández",
@@ -47,7 +51,8 @@ export const usuarios = [
       "email": "pedro.fernandez@example.com",
       "genero": "Masculino",
       "cedula": "2233445566",
-      "contraseña": "contraseña202"
+      "contraseña": "contraseña202",
+      "url": "https://picsum.photos/id/153/200/200"
     },
     {
       "nombre": "María Rodríguez",
@@ -55,6 +60,7 @@ export const usuarios = [
       "email": "maria.rodriguez@example.com",
       "genero": "Femenino",
       "cedula": "3344556677",
-      "contraseña": "contraseña303"
+      "contraseña": "contraseña303",
+      "url": "https://picsum.photos/id/152/200/200"
     }
   ];
