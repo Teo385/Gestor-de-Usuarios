@@ -7,9 +7,23 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
-    <div class="card-container" id="user-container">
-      <!-- Los usuarios se cargarán aquí dinámicamente -->
+    <div class="search-container">
+      <input type="text" id="name-filter" placeholder="Buscar por nombre" />
+      <input type="text" id="email-filter" placeholder="Buscar por correo electrónico" />
+      <select id="gender-filter">
+        <option value="">Seleccionar género</option>
+        <option value="Masculino">Masculino</option>
+        <option value="Femenino">Femenino</option>
+      </select>
+      <button id="search-button">Buscar</button>
     </div>
+
+    <div class="card-container" id="user-cards">
+      <!-- Las tarjetas de usuario se agregarán aquí mediante JavaScript -->
+    </div>
+
+    <button id="logout-button">Cerrar sesión</button>
+
     <script type="module" src="../controller/gestorController.js" defer></script>
   </body>
 </html>
