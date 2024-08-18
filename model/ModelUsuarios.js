@@ -6,7 +6,16 @@ export const usuarios = [
       "email": "juan.perez@example.com",
       "genero": "Masculino",
       "cedula": "1234567890",
-      "contraseña": "contraseña123"
+      "contraseña": "contraseña123",
+      "url": ""
+    },
+    {
+      "nombre": "Teo",
+      "telefono": "555-1234",
+      "email": "teo",
+      "genero": "Masculino",
+      "cedula": "1234567890",
+      "contraseña": "123"
     },
     {
       "nombre": "Ana Gómez",

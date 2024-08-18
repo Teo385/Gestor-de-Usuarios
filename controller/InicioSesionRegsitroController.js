@@ -1,4 +1,4 @@
-import {usuarios} from "./modelUsurios.js"
+import {usuarios} from "../model/ModelUsuarios.js"
   
   // Función para manejar el registro
   document.getElementById('signup-btn').addEventListener('click', function(e) {
@@ -25,6 +25,7 @@ import {usuarios} from "./modelUsurios.js"
           contraseña: contraseña
         });
         alert('Registro exitoso');
+        window.location.href = '/view/gestorUsuarios.html';
       } else {
         alert('El email ya está registrado');
       }
@@ -46,7 +47,7 @@ import {usuarios} from "./modelUsurios.js"
   
     if (usuario) {
       alert('Inicio de sesión exitoso');
-      
+      window.location.href = '/view/gestorUsuarios.html';
     } else {
       alert('Credenciales inválidas');
     }
