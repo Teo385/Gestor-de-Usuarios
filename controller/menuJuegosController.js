@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     gameFour.addEventListener('click', () => {
         // Redirige al usuario a la página de inicio de sesión
-        window.location.href = '../view/juego.html';
+        window.location.href = '../view/juegoCuatro.html';
     });
 
 
